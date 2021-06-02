@@ -50,7 +50,7 @@ class Player():
                     key = lambda x: board.colour_visits[x], reverse = True)
         if 'expert' in self.strategies:
             try:
-                with open('bounce/tally.csv', newline='') as tallycsv:
+                with open('bounce/tally_colour.csv', newline='') as tallycsv:
                     colours = {row['colour']:row['tally'] for row in csv.DictReader(tallycsv)}
                     return sorted([colour for colour in colours],
                             key = lambda x: colours[x], reverse = True)

@@ -2,4 +2,4 @@
 **/__pycache__
 .*.sw?
 venv/
-game.log
+bounce/game.log

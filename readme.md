@@ -19,8 +19,7 @@ Install dependencies via `pip install -r requirements.txt`.
 Then run `run.py`.
 
 Currently `run.py` runs a single game and logs it to a file in `bounce/game.log`.
-It can also be changed to run many games and save the colour tally.
-Other tallies could also be easily implemented, as they are collected by the game module.
+It can also be changed to run many games and save the colour and field tallies to `bounce/tally_colour.csv` and `bounce/tally_field.csv`.
 
 In the future I would probably like to see this module hooked up to a machine learning algorithm, which would learn different strategies to play the game.
 
