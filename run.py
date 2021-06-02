@@ -28,11 +28,11 @@ def run_many_games(num = 72):
     with open('bounce/tally_colour.csv', 'w') as csv:
         csv.write('colour, tally, prob\n')
         for key in tally_c:
-            csv.write(f'{key}, {tally_c[key]}, {tally_c[key]/total:.4f}\n')
+            csv.write(f'{key}, {tally_c[key]}, {tally_c[key]/total_c:.4f}\n')
     with open('bounce/tally_field.csv', 'w') as csv:
         csv.write('field, tally, prob\n')
         for key in tally_f:
-            csv.write(f'{key}, {tally_f[key]}, {tally_f[key]/total:.4f}\n')
+            csv.write(f'{key}, {tally_f[key]}, {tally_f[key]/total_f:.4f}\n')
 
 
 def run_single_game(num_players = NUM_PLAYERS):
