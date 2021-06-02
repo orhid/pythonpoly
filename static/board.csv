@@ -1,0 +1,41 @@
+name,position,category
+Go,0,go
+Old Kent Road,1,estate
+Community,2,community
+Whitechapel Road,3,estate
+Income Tax,4,tax
+Kings Cross Station,5,station
+The Angel Islington,6,estate
+Chance,7,chance
+Euston Road,8,estate
+Pentonville Road,9,estate
+Jail,10,jail
+Pall Mall,11,estate
+Electric Company,12,utility
+Whitehall,13,estate
+Northumberland Avenue,14,estate
+Marylebone Station,15,station
+Bow Street,16,estate
+Community,17,community
+Marlborough Street,18,estate
+Vine Street,19,estate
+Free Parking,20,parking
+The Strand,21,estate
+Chance,22,chance
+Fleet Street,23,estate
+Trafalgar Square,24,estate
+Fenchurch St Station,25,station
+Leicester Square,26,estate
+Coventry Street,27,estate
+Water Works,28,utility
+Piccadilly,29,estate
+Go To Jail,30,gojail
+Regent Street,31,estate
+Oxford Street,32,estate
+Community,33,community
+Bond Street,34,estate
+Liverpool Street Station,35,station
+Chance,36,chance
+Park Lane,37,estate
+Super Tax,38,tax
+Mayfair,39,estate

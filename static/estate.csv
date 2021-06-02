@@ -1,0 +1,23 @@
+name,position,colour,cost,value,house,site,single,double,triple,quadruple,hotel
+Old Kent Road,1,brown,60,30,30,2,10,30,90,160,250
+Whitechapel Road,3,brown,60,30,30,4,20,60,180,320,450
+The Angel Islington,6,cyan,100,50,50,6,30,90,270,400,550
+Euston Road,8,cyan,100,50,50,6,30,90,270,400,550
+Pentonville Road,9,cyan,120,60,60,8,40,100,300,450,600
+Pall Mall,11,pink,140,70,70,10,50,150,450,625,750
+Whitehall,13,pink,140,70,70,10,50,150,450,625,750
+Northumberland Avenue,14,pink,160,80,80,12,60,180,500,700,900
+Bow Street,16,orange,180,90,90,14,70,200,550,750,950
+Marlborough Street,18,orange,180,90,90,14,70,200,550,750,950
+Vine Street,19,orange,200,100,100,16,80,220,600,800,1000
+The Strand,21,red,220,110,110,18,90,250,700,875,1050
+Fleet Street,23,red,220,110,110,18,90,250,700,875,1050
+Trafalgar Square,24,red,240,120,120,20,100,300,750,925,1100
+Leicester Square,26,yellow,260,130,130,22,110,330,800,975,1150
+Coventry Street,27,yellow,260,130,130,22,110,330,800,975,1150
+Piccadilly,29,yellow,280,140,140,22,120,360,850,1025,1200
+Regent Street,31,green,300,150,150,26,130,390,900,1100,1275
+Oxford Street,32,green,300,150,150,26,130,390,900,1100,1275
+Bond Street,34,green,320,160,160,28,150,450,1000,1200,1400
+Park Lane,37,blue,350,175,175,35,175,500,1100,1300,1500
+Mayfair,39,blue,400,200,200,50,200,600,1400,1700,2000
