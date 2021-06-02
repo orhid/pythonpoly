@@ -53,4 +53,4 @@ if __name__ == '__main__':
             level=log.INFO,
             )
     run_single_game()
-#   run_many_games()
+#   run_many_games(1296)
