@@ -38,19 +38,23 @@ The strategies are chosen randomly at the start of each game.
 It would be cool to add strategies that cosider the expected return on investment, that is the value of the field, not just visiting frequency.
 
 ### valuing estates
-counter : will check which vields were visited in the current game so far
-expert : will consider which fields were visited the most over a number of previous games
-None : considers fields more valuable if they are further up the board
+
++ counter : will check which vields were visited in the current game so far
++ expert : will consider which fields were visited the most over a number of previous games
++ None : considers fields more valuable if they are further up the board
 
 ### buying estates
-buyall : will always buy if can
-safenet : will buy if current capital is above `mono.player._SAFENET = 648`
-None : will never buy
+
++ buyall : will always buy if can
++ safenet : will buy if current capital is above `mono.player._SAFENET = 648`
++ None : will never buy
 
 ### developing estates
-safenet : will develop if current capital is above `mono.player._SAFENET = 648`
-None : will always develop as much as they can
+
++ safenet : will develop if current capital is above `mono.player._SAFENET = 648`
++ None : will always develop as much as they can
 
 ### taking chances
-chance : will always take the chance card if possible
-None : will pay fine if possible
+
++ chance : will always take the chance card if possible
++ None : will pay fine if possible
