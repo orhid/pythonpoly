@@ -3,6 +3,7 @@ Player handling.
 """
 
 import logging as log
+import csv
 from random import choice
 
 from mono.dice import roll
